@@ -5,7 +5,7 @@ import time
 from selenium.common.exceptions import NoSuchElementException
 EMAIL_ACCOUNT = "abc@gmail.com"
 PASSWORD = "abc@123"
-PHONE = 9099899961
+PHONE = 1234567890
 
 def abort_application():
     
